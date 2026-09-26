@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: 'Tinos', Georgia, serif;
+  --font-body: 'Libre Franklin', system-ui, -apple-system, sans-serif;
+  --color-brand-accent: #C15A38;
+  --color-brand-accent2: #a8461f;
+  --color-brand-bg: #FDFDFC;
+  --color-brand-fg: #141314;
+  --color-brand-fg2: #4a4642;
+  --color-brand-fg3: #8a857e;
+  --color-brand-border: #E3DFD7;
+  --color-brand-border2: #EDEAE4;
+}
+
+body {
+  font-family: 'Libre Franklin', system-ui, -apple-system, sans-serif;
+  color: #141314;
+  background-color: #FDFDFC;
+}
+
+.font-serif-display {
+  font-family: 'Tinos', Georgia, serif;
+}
+
+.font-sans-body {
+  font-family: 'Libre Franklin', system-ui, -apple-system, sans-serif;
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Ida Dilfer — Portfolio Studio & GitHub Site Generator",
+  "description": "Editorial portfolio management interface and static site generator for Ida Dilfer with real-time media validation and GitHub export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
